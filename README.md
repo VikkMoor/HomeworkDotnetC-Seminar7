@@ -7,6 +7,6 @@
 
 8 7,8 -7,1 9
 
-2nd: input - i, j; output - element in matrix or message bout it absence.
+2nd: input - i, j; output - such element in matrix or message bout it absence.
 
 3rd: matrix of int numbers, output - arithmetic mean of each column.
