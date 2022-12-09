@@ -4,11 +4,7 @@
     {
         for (int j = 0; j < matr.GetLength(1); j++)
         {
-            int num1 = new Random().Next(-10, 11);
-            int num2 = new Random().Next(-10, 11);
-            int num3 = new Random().Next(-10, 11);
-            double num = (num1 + num2 + num3) / 3.0;
-            matr[i, j] = Math.Round(num, 1);
+            matr[i, j] = new Random().Next(-100, 101) / 10.0;
         }
     }
 }
