@@ -1,4 +1,4 @@
-# HomeworkDotnetC-Seminar7
+# HomeworkDotnetC#Seminar7
 **1st:** matrix 3x4 with random real numbers. For example:
 
 0,5 7 -2 -0,2
